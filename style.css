@@ -1,0 +1,31 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    margin: 40px;
+}
+
+.back-link {
+  text-decoration: none;
+  color: #000000;
+}
+.back-link:hover {
+    text-decoration: underline;
+}
+
+img {
+  max-width: 25%;
+  display: block;
+  margin: 20px ;
+}
+
+h1, h2, h3, h4 {
+  padding: 10px 0;
+}
+
+code {
+  background: #eee;
+  padding: 3px 6px;
+  border-radius: 6px;
+}
