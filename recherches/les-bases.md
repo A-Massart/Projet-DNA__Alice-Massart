@@ -9,7 +9,7 @@
 [Les Fractales - Micmaths](https://www.youtube.com/watch?v=iFA3g_4myFw)<br>
 
 ### La forme d'une fractale
-Pour comprendre les fractales, nous devons dans un premier temps nous intéresser à sa forme.<br>
+Pour comprendre les fractales, nous devons nous intéresser à sa forme.<br>
 Une fractale n'est ni une ligne ni une surface.<br>
 Par exemple<br>
 - la longueur d'une ligne est mesurée en mètre ($m$), on dit qu'elle est de dimension 1.<br>

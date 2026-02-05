@@ -1,4 +1,4 @@
-### Sommaire de la page
+## Sommaire de la page
 
 1. [Exemples dans les Sciences](#exemples-dans-les-sciences)<br>
 2. [Exemples dans la Nature](#exemples-dans-la-nature)<br>
