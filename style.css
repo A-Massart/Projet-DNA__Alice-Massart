@@ -6,16 +6,16 @@ body {
     margin: 40px;
 }
 
-#content, .back-link{
-  font-size: 2em;
-}
-
 .back-link {
   text-decoration: none;
   color: #000000;
 }
 .back-link:hover {
   text-decoration: underline;
+}
+
+#content, .back-link{
+  font-size: 1em;
 }
 
 img {

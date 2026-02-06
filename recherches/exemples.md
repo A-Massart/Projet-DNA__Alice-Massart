@@ -6,7 +6,7 @@
 
 ## Exemples dans les Sciences
 
-#### Ensemble de Mandelbrot
+### Ensemble de Mandelbrot
 
 ![Ensemble de Mandelbrot](img/exemples-sciences/ensemble-de-mandelbrot.jpg)
 
@@ -14,7 +14,7 @@ L'ensemble de Mandelbrot est une fractale du plan complexe définie par l'itéra
 
 → complexe, itération, cardioïde, filaments, zoom-infini
 
-#### Ensemble de Julia
+### Ensemble de Julia
 
 ![Ensembles de Julia](img/exemples-sciences/ensemble-de-julia.jpg)
 
@@ -22,7 +22,7 @@ Pour un $c$ fixé, l'ensemble de Julia est l'image des points $z$ dont la suite 
 
 → paramètre-fixe, dendritique, connecté, plan-complexe, variabilité-c
 
-#### Ensemble de Cantor
+### Ensemble de Cantor
 
 ![Ensemble de Cantor](img/exemples-sciences/ensemble-cantor.jpg)
 
@@ -30,7 +30,7 @@ Construit en supprimant itérativement le tiers central d'un segment : reste 1/3
 
 → segment, tiers-supprimé, longueur-zéro, poussière-points, dimension : $0.63$
 
-#### Tapis de Sierpinski
+### Tapis de Sierpinski
 
 ![Tapis de Sierpinski](img/exemples-sciences/tapis-de-sierpinski.gif)
 
@@ -38,7 +38,7 @@ Carré 3×3 où le centre est supprimé à chaque étape, puis récursivement da
 
 → carré, centre-supprimé, 8-souscarrés, aire-zéro, dimension : $1.89$
 
-#### Triangle de Sierpinski
+### Triangle de Sierpinski
 
 ![Triangle de Sierpinski](img/exemples-sciences/triangle-de-sierpinski.jpg)
 
@@ -46,7 +46,7 @@ Triangle équilatéral où on retire récursivement le triangle central à chaqu
 
 → triangle, centre-retiré, trous-récursifs, surface-zéro, dimension : $1.58$
 
-#### Flocon de Koch
+### Flocon de Koch
 
 ![Flocon de Koch](img/exemples-sciences/flocon-de-koch.gif)
 
@@ -54,7 +54,7 @@ Courbe plane : tiers médian de chaque segment devient un "V" équilatéral. $Lo
 
 → segments, V-ajouté, périmètre-infini, côte-fractale, dimension : $1.26$
 
-#### Courbe de Peano / remplissage d'espace
+### Courbe de Peano / remplissage d'espace
 
 ![Courbe de Peano](img/exemples-sciences/courbe-de-peano.png)  
 
@@ -63,7 +63,7 @@ Découverte qui va mener à la courbe de Hilbert.
 
 → carré-rempli, 9-parties, rotation-centres, espace-filling, dimension : $2$
 
-#### Courbe de Hilbert
+### Courbe de Hilbert
 
 ![Courbe de Hilbert](img/exemples-sciences/courbe-de-hilbert.gif)  
 
@@ -72,7 +72,7 @@ Version aboutie de la courbe de Peano.
 
 → 16-parties, U-orientés, indexation-spatiale, longueur-infini, dimension : $2$
 
-#### Fonction de Weierstrass (surnommée de Weierstrass)
+### Fonction de Weierstrass (surnommée de Weierstrass)
 
 ![Fonction de Weierstrass](img/exemples-sciences/fonction-de-weierstrass.jpg)
 
