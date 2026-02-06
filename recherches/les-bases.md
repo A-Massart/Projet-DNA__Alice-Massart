@@ -5,7 +5,6 @@
 2. [La forme d'une fractale](#la-forme-dune-fractale)<br>
 
 ### Liens utiles
-[Découvre les fractales avec cette expérience ! - Débrouillards](https://www.youtube.com/watch?v=2hWwiU6_Wf8)<br>
 [Les Fractales - Micmaths](https://www.youtube.com/watch?v=iFA3g_4myFw)<br>
 
 ### La forme d'une fractale
