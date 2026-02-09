@@ -3,42 +3,29 @@
 Cette première question a été cruciale dans mes recherches car la notion de fractale n'est pas courante à expliquer ou à comprendre.
 Pour trouver la meilleure façon de le faire, je me suis rapprochée de la médiation scientifique et de leur façon de travailler.
 
-
-
 *Exposition sur les mathématiques* - CITÉ DES SCIENCES ET DE L'INDUSTRIE  
 ![CITÉ DES SCIENCES ET DE L'INDUSTRIE, Exposition sur les mathématiques. Crédit photo : Ph. Levy - EPPDCSI](img/mediation-sc/3571--_R_Ph-Levy-EPPDCSI-_104__480.jpg)<br>
 Crédit photo : Ph. Levy - EPPDCSI  
 [Lien vers l'archive de l'exposition sur les mathématiques](https://www.cite-sciences.fr/fr/au-programme/expos-permanentes/les-expositions/mathematiques)
 
-
-
 *C'est Pas Sorcier!* - Présenté par Jamy Gourmaud, Frédéric Courant, Sabine Quindou. Créé par le réalisateur Bernard Gonner.  
 ![C'est Pas Sorcier!](img/mediation-sc/cestpassorcier.jpg)
-
-
 
 *MicMaths* - Mickaël Launay  
 ![MicMaths - Mickaël Launay](img/mediation-sc/micmaths_mickael-launay.jpg)
 
-
-
 [Voyages au pays des maths - Sciences | ARTE](https://www.arte.tv/fr/videos/RC-021426/voyages-au-pays-des-maths/)
 
 ![Voyage au pays des maths ⎜ ARTE](img/mediation-sc/voyage-au-pays-des-maths.webp)
-
-
 
 [Laboratoire NCET - YouTube](https://www.youtube.com/@LaboratoireNCET/videos)
 
 ![Laboratoire NCET](img/mediation-sc/NCET.jpeg)
 ![Le Langage - Youtube](img/mediation-sc/NCET-langage.png)
 
-
 Les possibilités d'apprentissage les plus courantes sont : l'animation, la modélisation et l'expérience.
 
 J'en ai conclu par mes recherches dans ces différents aspects de la transmission du savoir que la meilleure façon d'expliquer une notion complexe est d'en faire une expérience.
-
-
 
 ## Mes idées :
 
@@ -86,15 +73,22 @@ J'ai fait tourner ce code sur une [calculatrice Numworks](https://www.numworks.c
 ![Numworks - Fonction de Mandelbrot](<img/mediation-sc/Numworks - mandelbrot.gif>)
 
 ### Expérimenter le flocon de Koch
+
 Voir étape par étape le processus de création de cette fonction et comprendre sa construction.
 
 ![Flocon de Koch - étape par étape](img/mediation-sc/flocon-de-koch-etapes.png)
 
 ### Expérimenter le zoom infini
+
 Controlleur alternatif de la molette de la souris (ex : joystick) pour avancer ou reculer dans le zoom de la fractale. Peut-être avec l'équation qui s'affiche avec les données qui changent et les informations pertinentes.
 
-Par exemple avec la fonction de Mandelbrot :<br>
-$z_{n+1} = z_n^2 + c$
+Par exemple avec la fonction de Mandelbrot :
+
+permettre au joueur de s'enfoncer dans la fractale grâce à un controlleur pertinent (pas forcément clavier souris).  
+Exemple de zoom infini : [Hardest Mandelbrot zoom in 2014, 10^198 - 350 000 000 iterations - Youtube](https://www.youtube.com/watch?v=zXTpASSd9xE&t=1s)
+
+Problèmes : puissance de calcul beaucoup trop importante...
 
 ### Expérimenter les fractales dans l'art
-Par la peinture par exemple : [Découvre les fractales avec cette expérience ! - Débrouillards](https://www.youtube.com/watch?v=2hWwiU6_Wf8)
+
+Par la peinture par exemple : [Découvre les fractales avec cette expérience ! - Youtube](https://www.youtube.com/watch?v=2hWwiU6_Wf8)
