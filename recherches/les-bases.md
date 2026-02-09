@@ -47,7 +47,7 @@ $D$ = dimension
 
 $N$ = nombre de surfaces obtenues
 
-![dimension-entiere.png](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/les-bases/dimension-entiere.png)
+![dimension-entiere.png](img/les-bases/dimension-entiere.png)
 
 - une fractale est mesurée avec une dimension se situant **ENTRE** 1 et 2. Cette dimension non-entière est appelée dimension fractale.
   
@@ -82,7 +82,7 @@ $ℝ^{n}$ ou, plus généralement, dans un espace métrique.
 
 Pour calculer cette dimension pour une fractale $S$, placer cette fractale dans un réseau carré et compter le nombre de cases nécessaires pour recouvrir l'ensemble. La dimension de Minkowski est calculée en observant comment ce nombre de cases évolue à mesure que le réseau s'affine à l'infini.
 
-![dimension-minkowski.png](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/les-bases/dimension-minkowski.png)
+![dimension-minkowski.png](img/les-bases/dimension-minkowski.png)
 
 La dimension de Minkowski peut être vue comme la façon dont on peut recouvrir un ensemble avec de petits objets de même taille alors que la dimension de Hausdorff considère des recouvrements par des petits objets de taille variant, peut-être, de manière très significative. De plus, la dimension de Hausdorff s'appuie sur une mesure, ce qui n'est pas le cas pour la dimension de Minkowski, ce qui occasionne certaines propriétés jugées indésirables.
 

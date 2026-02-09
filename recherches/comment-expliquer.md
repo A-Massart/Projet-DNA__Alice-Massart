@@ -70,7 +70,7 @@ for x in range(W):
 
 J'ai fait tourner ce code sur une [calculatrice Numworks](https://www.numworks.com/fr/specs/) ce qui m'a permis de montrer que visualiser la fractale de Mandelbrot ne demande pas une énorme puissance de calcul.
 
-![Numworks - Fonction de Mandelbrot](<img/mediation-sc/Numworks - mandelbrot.gif>)
+![Numworks - Fonction de Mandelbrot](img/mediation-sc/numworks_mandelbrot.gif)
 
 ### Expérimenter le flocon de Koch
 
