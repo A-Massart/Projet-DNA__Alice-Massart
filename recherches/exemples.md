@@ -86,35 +86,35 @@ Première fractale fonctionnelle (1885), rugosité infinie à toutes les échell
 
 [Fractales dans la nature - Sigma Documentaries](https://www.youtube.com/watch?v=rGwwydEWLiI)
 
-![chou-romanesco.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/chou-romanesco.jpg)
+![chou-romanesco.jpg](img/exemples-nature/chou-romanesco.jpg)
 
-![cote.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/cote.jpg)
+![cote.jpg](img/exemples-nature/cote.jpg)
 
-![coquillage.png](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/coquillage.png)
+![coquillage.png](img/exemples-nature/coquillage.png)
 
-![cyclone.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/cyclone.jpg)
+![cyclone.jpg](img/exemples-nature/cyclone.jpg)
 
-![eclair.png](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/eclair.png)
+![eclair.png](img/exemples-nature/eclair.png)
 
-![fissures-sol.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/fissures-sol.jpg)
+![fissures-sol.jpg](img/exemples-nature/fissures-sol.jpg)
 
-![flocon-de-neige.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/flocon-de-neige.jpg)
+![flocon-de-neige.jpg](img/exemples-nature/flocon-de-neige.jpg)
 
-![eponge-de-mer.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/eponge-de-mer.jpg)
+![eponge-de-mer.jpg](img/exemples-nature/eponge-de-mer.jpg)
 
-![fougere.png](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/fougere.png)
+![fougere.png](img/exemples-nature/fougere.png)
 
-![nautile.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/nautile.jpg)
+![nautile.jpg](img/exemples-nature/nautile.jpg)
 
-![reseau-vasculaire.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/reseau-vasculaire.jpg)
+![reseau-vasculaire.jpg](img/exemples-nature/reseau-vasculaire.jpg)
 
-![nuage.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/nuage.jpg)
+![nuage.jpg](img/exemples-nature/nuage.jpg)
 
-![reseaux-hydrographiques.png](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/reseaux-hydrographiques.png)
+![reseaux-hydrographiques.png](img/exemples-nature/reseaux-hydrographiques.png)
 
-![rivière.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/rivière.jpg)
+![rivière.jpg](img/exemples-nature/rivière.jpg)
 
-![salade.jpg](/Users/alice/Documents/GitHub/Projet-DNA__Alice-Massart/recherches/img/exemples-nature/salade.jpg)
+![salade.jpg](img/exemples-nature/salade.jpg)
 
 
 
@@ -124,5 +124,3 @@ Première fractale fonctionnelle (1885), rugosité infinie à toutes les échell
 
 [Fractales à la recherche de la dimension cachée HD part 2/4 - inhosti](https://www.youtube.com/watch?v=yZ695z8VJVk&feature=youtu.be)  
 → 12'00" : les fractales dans Star Wars
-
-ref à utiliser

@@ -34,10 +34,11 @@ Le mot fractal a été forgé à partir du mot *fractus* (brisé/fracturé) par 
 
 ### 3. La dimension d'une fractale
 
-Une fractale n'est ni une ligne ni une surface.
-
-- la longueur d'une ligne est mesurée en mètre ($m$), on dit qu'elle est de dimension 1.
-- l'aire d'une surface est par exemple mesurée en $m^2$, on dit qu'elle est de dimension 2.
+Une dimension fractale mesure un comportement fractal (auto-similarité, rugosité, multi-échelle), pas une fractalité mathématique stricte (infinie).
+sources :
+- *Dimension fractale*, Wikipédia (consulté le 10/02/2026)
+- *Les objets fractals*, Benoît Mandelbrot (1982)
+- *Deux ouvrages sur la dimension fractale*, C. Tricot (1995)
 
 Dans l'image ci-dessous :
 
@@ -49,7 +50,7 @@ $N$ = nombre de surfaces obtenues
 
 ![dimension-entiere.png](img/les-bases/dimension-entiere.png)
 
-- une fractale est mesurée avec une dimension se situant **ENTRE** 1 et 2. Cette dimension non-entière est appelée dimension fractale.
+Une dimension fractale est mesurée avec une valeur se situant **ENTRE** deux dimensions entières, par exemple entre 1 et 2 ou entre 2 et 3. Cette dimension non-entière est appelée dimension fractale.
   
   Exemples concrets :
   
@@ -72,20 +73,3 @@ Fractales naturelles réelles :
 - Réseaux vasculaires : $2 < D < 3$  → $D≈2,7$
 
 [Liste de fractales par dimension de Hausdorff — Wikipédia](https://fr.wikipedia.org/wiki/Liste_de_fractales_par_dimension_de_Hausdorff)
-
-#### La dimension de Hausdorff
-
-#### La dimension de Minkowski
-
-En géométrie fractale, la dimension de Minkowski-Bouligand est une manière de déterminer la dimension fractale d'un sous-ensemble $S$ dans un espace euclidien 
-$ℝ^{n}$ ou, plus généralement, dans un espace métrique.
-
-Pour calculer cette dimension pour une fractale $S$, placer cette fractale dans un réseau carré et compter le nombre de cases nécessaires pour recouvrir l'ensemble. La dimension de Minkowski est calculée en observant comment ce nombre de cases évolue à mesure que le réseau s'affine à l'infini.
-
-![dimension-minkowski.png](img/les-bases/dimension-minkowski.png)
-
-La dimension de Minkowski peut être vue comme la façon dont on peut recouvrir un ensemble avec de petits objets de même taille alors que la dimension de Hausdorff considère des recouvrements par des petits objets de taille variant, peut-être, de manière très significative. De plus, la dimension de Hausdorff s'appuie sur une mesure, ce qui n'est pas le cas pour la dimension de Minkowski, ce qui occasionne certaines propriétés jugées indésirables.
-
-Malgré cela, la dimension de Minkowski est couramment utilisée pour la mesure d'objets fractals, car la mesure de Hausdorff est difficile à mettre en application.
-
-src : [Dimension de Minkowski-Bouligand — Wikipédia](https://fr.wikipedia.org/wiki/Dimension_de_Minkowski-Bouligand)

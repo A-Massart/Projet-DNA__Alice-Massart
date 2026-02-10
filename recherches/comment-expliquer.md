@@ -85,7 +85,9 @@ Controlleur alternatif de la molette de la souris (ex : joystick) pour avancer o
 Par exemple avec la fonction de Mandelbrot :
 
 permettre au joueur de s'enfoncer dans la fractale grâce à un controlleur pertinent (pas forcément clavier souris).  
-Exemple de zoom infini : [Hardest Mandelbrot zoom in 2014, 10^198 - 350 000 000 iterations - Youtube](https://www.youtube.com/watch?v=zXTpASSd9xE&t=1s)
+Exemple de zoom infini : <br>
+[Hardest Mandelbrot zoom in 2014, 10^198 - 350 000 000 iterations - Youtube](https://www.youtube.com/watch?v=zXTpASSd9xE&t=1s) <br>
+[XaoS - fast, fluid, continuous zooming](https://xaos-project.github.io/index.html)
 
 Problèmes : puissance de calcul beaucoup trop importante...
 
