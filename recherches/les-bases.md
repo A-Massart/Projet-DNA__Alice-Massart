@@ -72,4 +72,5 @@ Fractales naturelles réelles :
 
 - Réseaux vasculaires : $2 < D < 3$  → $D≈2,7$
 
+Pour aller plus loin :
 [Liste de fractales par dimension de Hausdorff — Wikipédia](https://fr.wikipedia.org/wiki/Liste_de_fractales_par_dimension_de_Hausdorff)

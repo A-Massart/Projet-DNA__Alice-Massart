@@ -94,3 +94,17 @@ Problèmes : puissance de calcul beaucoup trop importante...
 ### Expérimenter les fractales dans l'art
 
 Par la peinture par exemple : [Découvre les fractales avec cette expérience ! - Youtube](https://www.youtube.com/watch?v=2hWwiU6_Wf8)
+
+Expérience immersive en VR, AR ou MR afin d'intéragir directement avec les fractales dans la nature
+
+## Idée gardée :
+Expérience immersive en VR, AR ou MR afin d'intéragir directement avec les fractales dans la nature.
+
+Croquis de la vue réelle de la personne avec casque VR dans mon environnement interactif
+![Croquis de la vue réelle de la personne avec casque VR dans mon environnement interactif](img/croquis-projet/personne-avec-casque-vr_img1.jpg)
+
+Croquis de la vue VR
+![Croquis de la vue VR de la personne avec casque VR dans mon environnement interactif](img/croquis-projet/personne-avec-casque-vr_img2.jpg)
+
+Croquis de la vue VR avec interactions
+![Croquis de la vue VR avec interactions de la personne avec casque VR dans mon environnement interactif](img/croquis-projet/personne-avec-casque-vr_img3.jpg)
